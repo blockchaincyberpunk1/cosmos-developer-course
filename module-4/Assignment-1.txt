@@ -1,0 +1,51 @@
+Governance Proposal Draft
+
+Assignment Overview:
+In this assignment, students will draft their own on-chain governance proposals for their blockchain applications. They will create comprehensive proposals that include technical details and a governance plan. These proposals will serve as the foundation for future in-class simulations or discussions, allowing students to apply their knowledge of governance mechanisms.
+
+Assignment Instructions:
+
+Task 1: Introduction to Governance Proposals (15 minutes)
+
+Introduce students to the concept of on-chain governance proposals and their role in blockchain ecosystems.
+Task 2: Proposal Topic Selection (15 minutes)
+2. Instruct students to select a specific governance proposal topic relevant to their blockchain applications. Topics may include protocol upgrades, parameter changes, funding allocation, or any other aspect of blockchain governance.
+
+Task 3: Proposal Drafting (2-3 hours)
+3. Ask students to draft a comprehensive governance proposal that includes the following components:
+
+Introduction (10%):
+
+Provide an introduction to the proposal, including its purpose and significance.
+Technical Details (40%):
+
+Describe the technical aspects of the proposal, including code changes, protocol upgrades, or system improvements.
+Explain how the proposed changes will impact the blockchain application's functionality and security.
+Governance Plan (30%):
+
+Outline the governance process for decision-making related to the proposal.
+Describe how stakeholders will be involved in voting or decision-making.
+Explain the voting mechanisms, quorum requirements, and governance token distribution.
+Token Economics (10%):
+
+Discuss how the proposal may affect token economics, including incentives, staking, and rewards.
+Conclusion and Next Steps (10%):
+
+Summarize the key points of the proposal.
+Describe the next steps for the proposal, including a timeline for decision-making and implementation.
+Task 4: Peer Review (1 hour)
+4. Organize a peer review session where students exchange their proposal drafts for feedback. Encourage constructive criticism and suggestions for improvement.
+
+Task 5: Proposal Revision (30 minutes - 1 hour)
+5. Based on the feedback received during the peer review, ask students to revise and refine their governance proposals.
+
+Submission Guidelines:
+
+Students should submit their finalized governance proposal drafts.
+Grading Criteria:
+Your assignment will be graded based on the following criteria:
+
+Completeness and depth of the proposal.
+Clarity and organization of the proposal.
+Alignment of technical details and governance mechanisms.
+Thoughtfulness in designing the governance plan.

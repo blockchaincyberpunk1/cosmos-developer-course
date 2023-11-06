@@ -1,0 +1,39 @@
+Querying Implementation
+
+Assignment Overview:
+In this assignment, students will extend their querying capabilities in their blockchain applications. They will implement advanced querying features based on the workshop and classroom discussions, allowing them to enhance the data retrieval and analysis capabilities of their blockchain applications.
+
+Assignment Instructions:
+
+Task 1: Review of Querying Concepts (30 minutes)
+
+Begin by revisiting the querying concepts discussed in the workshop and classroom sessions. Ensure that students have a solid understanding of advanced querying techniques.
+Task 2: Querying Feature Selection (1 hour)
+2. Instruct students to select one or more advanced querying features or capabilities to implement in their blockchain applications. These features should align with the specific needs or use cases of their projects.
+
+Specific tasks for querying implementation may include:
+
+Implementing custom queries to retrieve specific blockchain data.
+Adding filtering and sorting options for data retrieval.
+Creating complex queries with multiple conditions and joins.
+Implementing pagination or limit/offset for query results.
+Incorporating aggregate functions (e.g., SUM, COUNT) for data analysis.
+Enhancing error handling and validation in queries.
+Task 3: Query Implementation (2-3 hours)
+3. Ask students to implement the selected advanced querying features in their blockchain applications. They should write the necessary code to enable these features, ensuring that the queries are optimized for performance.
+
+Task 4: Testing and Validation (30 minutes - 1 hour)
+4. Instruct students to thoroughly test and validate the advanced querying features they implemented. Ensure that the features work correctly and provide accurate results.
+
+Task 5: Documentation (30 minutes - 1 hour)
+5. Require students to create documentation for the implemented querying features. Documentation should include clear instructions for using the features, explanations of the queries, and any optimizations made.
+
+Submission Guidelines:
+
+Students should submit their blockchain application projects, including the code for the advanced querying features and documentation.
+Grading Criteria:
+Your assignment will be graded based on the following criteria:
+
+Correctness and functionality of the implemented querying features.
+Efficiency and optimization of query performance.
+Clarity and completeness of documentation.

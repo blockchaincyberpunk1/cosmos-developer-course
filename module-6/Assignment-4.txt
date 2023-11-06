@@ -1,0 +1,63 @@
+Security Incident Response Plan
+
+Assignment Overview:
+In this assignment, students will be tasked with creating a security incident response plan tailored for a Cosmos-based blockchain project. Their objective is to outline procedures for detecting, reporting, and mitigating security incidents. This exercise equips students with the essential knowledge and skills to prepare for and respond to security threats effectively.
+
+Assignment Instructions:
+
+Task 1: Introduction to Security Incident Response (15 minutes)
+
+Introduce students to the importance of having a well-defined security incident response plan and its role in safeguarding blockchain projects.
+Task 2: Security Incident Response Plan Creation (4 - 5 hours)
+2. Challenge students to create a comprehensive security incident response plan specifically designed for a Cosmos-based blockchain project. The plan should include the following components:
+
+Plan Overview (10%):
+
+Provide an overview of the security incident response plan, outlining its purpose and scope.
+Roles and Responsibilities (20%):
+
+Define the roles and responsibilities of team members and stakeholders involved in incident response.
+Specify who is responsible for various tasks, such as incident detection, reporting, mitigation, and communication.
+Incident Classification (15%):
+
+Establish a classification system for security incidents, categorizing them by severity.
+Define the criteria for determining the severity of an incident.
+Incident Detection (15%):
+
+Describe the methods and tools used for detecting security incidents within the blockchain project.
+Explain how anomaly detection, monitoring, and auditing will be employed.
+Incident Reporting (15%):
+
+Outline the procedures for reporting security incidents, including who to contact and how to submit incident reports.
+Include guidelines for maintaining confidentiality during the reporting process.
+Incident Response (20%):
+
+Detail the steps to be taken when responding to security incidents.
+Include a checklist or flowchart outlining the incident response process.
+Specify how incidents will be investigated, analyzed, and resolved.
+Communication and Notification (15%):
+
+Define how communication will be handled both internally and externally during and after an incident.
+Specify when and how stakeholders, including users and the public, will be notified.
+Lessons Learned and Documentation (10%):
+
+Describe how incident data and lessons learned will be documented for future reference and improvement.
+Emphasize the importance of continuous improvement based on incident analysis.
+Task 3: Submission (30 minutes - 1 hour)
+3. Ask students to submit their completed security incident response plan, ensuring that it covers all the required components.
+
+Task 4: Peer Review (1 hour)
+4. Organize a peer review session where students exchange their security incident response plans for feedback. Encourage constructive criticism and suggestions for improvement.
+
+Task 5: Revision (30 minutes - 1 hour)
+5. Based on the feedback received during the peer review, ask students to revise and refine their security incident response plans.
+
+Submission Guidelines:
+
+Students should submit their finalized security incident response plans.
+Grading Criteria:
+Your assignment will be graded based on the following criteria:
+
+Completeness and accuracy of the security incident response plan.
+Clarity and organization of the plan's components.
+Practicality and effectiveness of the response procedures.

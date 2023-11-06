@@ -1,0 +1,50 @@
+Proposal Creation
+
+Assignment Overview:
+In this assignment, students will step into the role of a blockchain ecosystem participant and create a hypothetical governance proposal for the Cosmos Hub. Their task is to prepare a proposal document, outline its objectives, and consider the potential impact on the Cosmos ecosystem. This exercise helps students understand the process of proposing changes and upgrades within a blockchain network.
+
+Assignment Instructions:
+
+Task 1: Introduction to Governance Proposals (15 minutes)
+
+Introduce students to the concept of governance proposals in blockchain networks and their significance in shaping the future of the ecosystem.
+Task 2: Proposal Creation (4 - 5 hours)
+2. Challenge students to create a hypothetical governance proposal for the Cosmos Hub. Their proposal should include the following components:
+
+Proposal Objectives (20%):
+
+Clearly define the objectives and goals of the proposal.
+Explain why these objectives are important for the Cosmos ecosystem.
+Technical Details (30%):
+
+Provide technical details and specifications related to the proposed changes or upgrades.
+Consider how the proposal aligns with the Cosmos Network's design principles.
+Rationale (20%):
+
+Offer a rationale for the proposal, explaining the problems or challenges it aims to address.
+Discuss the potential benefits and drawbacks of the proposed changes.
+Impact Assessment (20%):
+
+Evaluate the potential impact of the proposal on the Cosmos ecosystem.
+Consider how the proposal may affect security, performance, scalability, and decentralization.
+Documentation (10%):
+
+Ensure proper documentation and references for any research or sources used in the proposal.
+Task 3: Submission (30 minutes - 1 hour)
+3. Request students to submit their hypothetical governance proposal, including all components mentioned above.
+
+Task 4: Peer Review (1 hour)
+4. Organize a peer review session where students exchange their governance proposals for feedback. Encourage constructive criticism and suggestions for improvement.
+
+Task 5: Revision (30 minutes - 1 hour)
+5. Based on the feedback received during the peer review, ask students to revise and refine their governance proposals.
+
+Submission Guidelines:
+
+Students should submit their finalized hypothetical governance proposals.
+Grading Criteria:
+Your assignment will be graded based on the following criteria:
+
+Clarity and completeness of proposal objectives and technical details.
+Consideration of potential impact on the Cosmos ecosystem.
+Quality of rationale and documentation.

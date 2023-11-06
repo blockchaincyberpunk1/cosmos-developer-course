@@ -1,0 +1,58 @@
+Protocol Comparison Report
+
+Assignment Overview:
+In this assignment, students will research and write a comprehensive report comparing the IBC (Inter-Blockchain Communication) protocol with another prominent blockchain interoperability protocol, such as Polkadot's XCMP (Cross-Chain Message Passing). They will evaluate technical aspects, adoption, and real-world applications of these protocols, gaining insights into the strengths and weaknesses of each.
+
+Assignment Instructions:
+
+Task 1: Introduction to Protocol Comparison (15 minutes)
+
+Introduce students to the importance of comparing blockchain interoperability protocols and how such comparisons help in understanding their technical nuances and real-world use cases.
+Task 2: Protocol Selection (15 minutes)
+2. Provide students with a list of prominent blockchain interoperability protocols, including IBC and XCMP. Instruct each student to select one protocol for comparison.
+
+Task 3: Research and Comparison (2 - 3 hours)
+3. Instruct students to conduct research and write a comprehensive report comparing the selected protocol (e.g., IBC) with XCMP. They should focus on the following aspects:
+
+Technical Aspects (40%):
+
+Compare the technical specifications, architecture, and design principles of the two protocols.
+Discuss how they enable cross-chain communication and data transfer.
+Adoption and Ecosystem (30%):
+
+Evaluate the adoption and usage of each protocol within the blockchain ecosystem.
+Identify key projects and networks implementing the protocols.
+Real-World Applications (30%):
+
+Provide examples of real-world applications or use cases where each protocol has been applied.
+Discuss the relevance and success of these applications.
+Task 4: Report Writing (30 minutes - 1 hour)
+4. Ask students to compile their comparison findings into a comprehensive report. Reports should include:
+
+Introduction (10%):
+
+Provide an introduction to the topic and the purpose of the report.
+Technical Aspects (40%):
+
+Compare the technical aspects of the selected protocols, including architecture and design.
+Adoption and Ecosystem (30%):
+
+Analyze the adoption and presence of each protocol in the blockchain ecosystem.
+Real-World Applications (20%):
+
+Discuss real-world applications and use cases for each protocol.
+Task 5: Peer Review (1 hour)
+5. Organize a peer review session where students exchange their reports for feedback. Encourage constructive criticism and suggestions for improvement.
+
+Task 6: Revision (30 minutes - 1 hour)
+6. Based on the feedback received during the peer review, ask students to revise and refine their reports.
+
+Submission Guidelines:
+
+Students should submit their finalized comparison reports.
+Grading Criteria:
+Your assignment will be graded based on the following criteria:
+
+Depth and accuracy of the technical comparison.
+Clarity and organization of the report.
+Quality of the evaluation of adoption and real-world applications.

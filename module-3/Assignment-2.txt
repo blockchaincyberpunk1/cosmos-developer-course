@@ -1,0 +1,38 @@
+Project Development
+
+Assignment Overview:
+In this assignment, students will move forward with the development of their blockchain application projects. They will be tasked with creating custom modules, defining transactions, and managing state changes according to their project proposals. This exercise will allow students to apply the concepts they have learned and gain hands-on experience in blockchain application development.
+
+Assignment Instructions:
+
+Task 1: Project Planning and Proposal Review (1-1.5 hours)
+
+Begin by having students review their project proposals. Ensure they have a clear understanding of the project's objectives, scope, and requirements.
+Task 2: Module and Transaction Design (1-1.5 hours)
+2. Instruct students to design custom modules for their blockchain applications. They should identify the key components of their modules, including state, transactions, and any additional functionality required.
+
+Specific tasks may include:
+
+Define the structure of the module's state.
+Identify and create transactions that will modify the state.
+Consider any validation logic or conditions that transactions should meet.
+Task 3: Module Implementation (1.5-2.5 hours)
+3. Ask students to implement the custom modules they designed in Task 2. They should write the code necessary to create and manage state changes in their blockchain applications.
+
+Task 4: Testing and Validation (30 minutes - 1 hour)
+4. Instruct students to thoroughly test and validate their custom modules and transactions. They should ensure that the application functions correctly and that transactions are processed as intended.
+
+Task 5: Documentation (30 minutes - 1 hour)
+5. Require students to create documentation for their blockchain applications. Documentation should include clear instructions for running the application, explanations of custom modules and transactions, and any additional information necessary for understanding the project.
+
+Submission Guidelines:
+
+Students should submit their blockchain application projects, including code and documentation.
+Encourage students to include a brief summary of the challenges they encountered during development and how they addressed them.
+Grading Criteria:
+Your assignment will be graded based on the following criteria:
+
+Quality of module and transaction design and implementation.
+Adequacy of testing and validation procedures.
+Clarity and completeness of documentation.
+Successful demonstration of project progress according to the initial proposal.

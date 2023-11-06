@@ -1,0 +1,57 @@
+IBC in Action - Case Study Analysis
+
+Assignment Overview:
+In this assignment, students will analyze a real-world blockchain project that successfully implemented the IBC (Inter-Blockchain Communication) protocol. They will examine the project's objectives, challenges faced during implementation, and the outcomes achieved. This exercise allows students to gain insights into the practical applications and impact of IBC in the blockchain ecosystem.
+
+Assignment Instructions:
+
+Task 1: Introduction to IBC in Action (15 minutes)
+
+Introduce students to the concept of analyzing real-world blockchain projects that have implemented the IBC protocol and how it can provide valuable insights into the protocol's practical use.
+Task 2: Case Study Selection (15 minutes)
+2. Provide students with a specific real-world blockchain project that successfully implemented IBC. Explain the context and significance of the case study.
+
+Task 3: Case Study Analysis (2 - 3 hours)
+3. Instruct students to conduct a comprehensive analysis of the provided case study. They should focus on the following aspects:
+
+Objectives and Use Case (30%):
+
+Describe the objectives of the blockchain project and the specific use case for which IBC was implemented.
+Implementation Challenges (40%):
+
+Identify and analyze the challenges and obstacles faced during the implementation of IBC.
+Discuss how these challenges were addressed or mitigated.
+Outcomes and Impact (30%):
+
+Summarize the outcomes and impact of implementing IBC in the project.
+Discuss the benefits, improvements, or innovations achieved.
+Task 4: Report Writing (30 minutes - 1 hour)
+4. Ask students to compile their case study analysis into a comprehensive report. Reports should include:
+
+Introduction (10%):
+
+Provide an introduction to the case study and the purpose of the report.
+Objectives and Use Case (30%):
+
+Describe the project's objectives and the specific use case for IBC.
+Implementation Challenges (40%):
+
+Analyze the challenges faced during IBC implementation and their solutions.
+Outcomes and Impact (20%):
+
+Summarize the outcomes and impact of implementing IBC in the project.
+Task 5: Peer Review (1 hour)
+5. Organize a peer review session where students exchange their case study analysis reports for feedback. Encourage constructive criticism and suggestions for improvement.
+
+Task 6: Revision (30 minutes - 1 hour)
+6. Based on the feedback received during the peer review, ask students to revise and refine their reports.
+
+Submission Guidelines:
+
+Students should submit their finalized case study analysis reports.
+Grading Criteria:
+Your assignment will be graded based on the following criteria:
+
+Depth and accuracy of the case study analysis.
+Clarity and organization of the report.
+Quality of the discussion on implementation challenges and outcomes.

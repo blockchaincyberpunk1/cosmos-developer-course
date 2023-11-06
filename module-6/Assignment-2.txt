@@ -1,0 +1,43 @@
+Security Best Practices Documentation
+
+Assignment Overview:
+In this assignment, students will research and document security best practices specific to Cosmos-based blockchain development. Their task is to compile a comprehensive guide covering both consensus and application security. This exercise empowers students with essential knowledge and practical guidelines to ensure the security and integrity of blockchain systems.
+
+Assignment Instructions:
+
+Task 1: Introduction to Security Best Practices Documentation (15 minutes)
+
+Introduce students to the importance of security in blockchain development and the significance of following best practices to protect blockchain systems.
+Task 2: Research and Compilation (4 - 5 hours)
+2. Challenge students to conduct thorough research on security best practices related to Cosmos-based blockchain development, focusing on both consensus and application security. They should consider the following aspects:
+
+Consensus Security (50%):
+
+Research and document best practices related to the security of the consensus algorithm used in Cosmos (e.g., Tendermint).
+Cover topics such as validator node security, slashing prevention, and network-level security.
+Application Security (50%):
+
+Research and document best practices for ensuring the security of blockchain applications built on Cosmos.
+Include guidelines for secure smart contract development, data protection, and user authentication.
+Documentation (10%):
+
+Ensure that the security best practices guide is well-documented and organized.
+Use clear explanations and provide practical examples when necessary.
+Task 3: Submission (30 minutes - 1 hour)
+3. Ask students to submit their completed security best practices documentation, which should include guidelines for both consensus and application security.
+
+Task 4: Peer Review (1 hour)
+4. Organize a peer review session where students exchange their documentation for feedback. Encourage constructive criticism and suggestions for improvement.
+
+Task 5: Revision (30 minutes - 1 hour)
+5. Based on the feedback received during the peer review, ask students to revise and refine their security best practices documentation.
+
+Submission Guidelines:
+
+Students should submit their finalized security best practices documentation.
+Grading Criteria:
+Your assignment will be graded based on the following criteria:
+
+Completeness and accuracy of the documentation for consensus and application security.
+Clarity and organization of the guide.
+Quality of explanations and practical examples provided.

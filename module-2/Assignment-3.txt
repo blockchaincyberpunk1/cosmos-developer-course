@@ -1,0 +1,41 @@
+IBC Use Case Study
+
+Assignment Overview:
+In this assignment, you will explore a practical scenario where two blockchains need to exchange assets or data, and you will investigate how the Cosmos network's Inter-Blockchain Communication (IBC) protocol can facilitate this transaction. IBC is a crucial feature for achieving interoperability in the Cosmos ecosystem, and understanding its application in real-world scenarios is essential.
+
+Assignment Instructions:
+
+Task 1: Use Case Scenario (15 minutes)
+
+Present a hypothetical scenario where two distinct blockchains need to exchange assets or data. You can choose an industry-specific use case such as finance, supply chain, or healthcare.
+Task 2: Research (1-1.5 hours)
+2. Conduct research on how the Cosmos network's IBC protocol works and its capabilities for enabling interoperability between blockchains. Utilize reputable sources such as official documentation, whitepapers, and articles.
+
+Task 3: Report (1-1.5 hours)
+3. Write a comprehensive report that covers the following components:
+
+Introduction (10%):
+
+Provide an introduction to the report, outlining the use case scenario and the significance of blockchain interoperability using the IBC protocol.
+Use Case Description (20%):
+
+Describe the use case scenario in detail, including the specific requirements for asset or data exchange between the two blockchains.
+Explain the potential challenges and limitations if interoperability is not achieved.
+IBC Protocol Overview (30%):
+
+Explain how the Cosmos network's IBC protocol facilitates interoperability between blockchains.
+Provide insights into key concepts, mechanisms, or technologies used by IBC.
+Application to the Use Case (30%):
+
+Analyze how the IBC protocol can be applied to the presented use case scenario. Describe the steps and processes involved in enabling asset or data exchange.
+Discuss the benefits and advantages of using IBC for this particular use case.
+Conclusion (10%):
+
+Summarize the key findings of your use case study.
+Offer your insights on the potential impact of IBC on the blockchain industry, especially in the context of the presented scenario.
+Submission Guidelines:
+
+Your report should be well-structured and between 800 to 1,000 words in length.
+Properly cite and reference any sources you use.
+Use clear headings and subheadings to organize your report.
+Follow a standard citation style (e.g., APA, MLA, or Chicago) for your references.

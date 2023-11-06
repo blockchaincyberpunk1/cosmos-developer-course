@@ -1,0 +1,46 @@
+Testing Framework Exploration
+
+Assignment Overview:
+In this assignment, students will research and explore different testing frameworks and tools suitable for Cosmos-based blockchain applications. Their task is to compare and contrast these tools and provide recommendations. This exercise helps students understand the options available for testing blockchain applications and make informed decisions about selecting the most suitable testing framework.
+
+Assignment Instructions:
+
+Task 1: Introduction to Testing Framework Exploration (15 minutes)
+
+Introduce students to the importance of testing in blockchain application development and the role of testing frameworks in ensuring code quality and reliability.
+Task 2: Research and Exploration (3 - 4 hours)
+2. Instruct students to research and explore various testing frameworks and tools suitable for Cosmos-based blockchain applications. Encourage them to consider aspects such as functionality, ease of use, community support, and compatibility with Cosmos.
+
+Exploration (60%):
+
+Ask students to explore at least three different testing frameworks or tools, such as Truffle, Ganache, Hardhat, or specific Cosmos-related tools.
+For each framework or tool, require students to:
+Provide an overview of its features and capabilities.
+Explain how it can be used for testing Cosmos-based applications.
+Identify any advantages or disadvantages.
+Discuss the level of community support and documentation available.
+Comparison and Recommendations (30%):
+
+Instruct students to compare and contrast the testing frameworks or tools they explored, highlighting their strengths and weaknesses.
+Encourage students to provide clear recommendations for which testing framework or tool they believe is the most suitable for Cosmos-based applications. Justify their recommendations based on their research findings.
+Documentation (10%):
+
+Require students to document their exploration process, including sources of information and any challenges encountered during their research.
+Task 3: Submission (30 minutes - 1 hour)
+3. Ask students to submit their completed testing framework exploration report, including the details of the frameworks or tools they explored, comparisons, recommendations, and documentation.
+
+Task 4: Peer Review (1 hour)
+4. Organize a peer review session where students exchange their testing framework exploration reports for feedback. Encourage constructive criticism and suggestions for improvement.
+
+Task 5: Revision (30 minutes - 1 hour)
+5. Based on the feedback received during the peer review, ask students to revise and refine their testing framework exploration reports.
+
+Submission Guidelines:
+
+Students should submit their finalized testing framework exploration reports.
+Grading Criteria:
+Your assignment will be graded based on the following criteria:
+
+Thoroughness and accuracy of the exploration of testing frameworks or tools.
+Clarity and rationale of recommendations.
+Quality and organization of documentation.

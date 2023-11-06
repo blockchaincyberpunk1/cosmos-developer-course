@@ -1,0 +1,54 @@
+Upgrade Plan Documentation
+
+Assignment Overview:
+In this assignment, students will document their upgrade plans for their blockchain applications. They will create comprehensive documentation that includes technical specifications, testing procedures, and governance steps. This documentation will serve as a guide for implementing upgrades in their projects.
+
+Assignment Instructions:
+
+Task 1: Introduction to Upgrade Plans (15 minutes)
+
+Introduce students to the concept of upgrade plans in blockchain development and their importance in maintaining and improving blockchain networks.
+Task 2: Upgrade Plan Creation (2-3 hours)
+2. Instruct students to draft a comprehensive upgrade plan for their blockchain applications. The plan should include the following components:
+
+Introduction (10%):
+
+Provide an introduction to the upgrade plan, explaining its purpose and significance.
+Technical Specifications (40%):
+
+Describe the technical changes or enhancements that will be made during the upgrade. This should include code modifications, protocol changes, or system improvements.
+Explain how these changes will affect the blockchain application's functionality and security.
+Include any code snippets or diagrams that clarify technical aspects.
+Testing Procedures (30%):
+
+Outline the testing procedures that will be performed before the upgrade is deployed to the main network. Describe the types of testing, such as unit testing, integration testing, and user acceptance testing.
+Specify the testing environment and tools that will be used.
+Detail the criteria for successful testing and the acceptance criteria for the upgrade.
+Governance Steps (10%):
+
+Describe the governance process for approving and implementing the upgrade. Explain how stakeholders will be involved in voting or decision-making.
+Specify the voting mechanisms, quorum requirements, and governance token distribution.
+Include a timeline for the governance steps, from proposal submission to final decision.
+Rollback Plan (10%):
+
+Describe a rollback plan in case the upgrade encounters unexpected issues or fails during deployment. Explain the steps that will be taken to revert to the previous state.
+Conclusion (10%):
+
+Summarize the key points of the upgrade plan.
+Emphasize the importance of careful planning and testing in blockchain upgrades.
+Task 3: Peer Review (1 hour)
+3. Organize a peer review session where students exchange their upgrade plan documentation for feedback. Encourage constructive criticism and suggestions for improvement.
+
+Task 4: Plan Revision (30 minutes - 1 hour)
+4. Based on the feedback received during the peer review, ask students to revise and refine their upgrade plans.
+
+Submission Guidelines:
+
+Students should submit their finalized upgrade plan documentation.
+Grading Criteria:
+Your assignment will be graded based on the following criteria:
+
+Completeness and depth of the upgrade plan documentation.
+Clarity and organization of the documentation.
+Alignment of technical specifications, testing procedures, and governance steps.
+Thoughtfulness in designing the rollback plan.

@@ -1,0 +1,52 @@
+Networking Challenges Report
+
+Assignment Overview:
+In this assignment, students will research and write a comprehensive report detailing common challenges faced by networking layers in blockchain systems. They should provide examples and recommend strategies to mitigate these challenges. This exercise encourages students to gain a deeper understanding of the practical issues involved in blockchain networking.
+
+Assignment Instructions:
+
+Task 1: Introduction to Networking Challenges (15 minutes)
+
+Introduce students to the importance of understanding and addressing common challenges in blockchain networking layers and their impact on the overall performance and security of blockchain systems.
+Task 2: Research and Analysis (2.5 - 3.5 hours)
+2. Instruct students to conduct research on common challenges faced by networking layers in blockchain systems. They should focus on the following aspects:
+
+Challenges Identification (30%):
+
+Identify and describe common challenges, such as latency, scalability issues, security threats, and network congestion, faced by networking layers in blockchain systems.
+Examples and Case Studies (40%):
+
+Provide real-world examples and case studies illustrating instances where these challenges have had a significant impact on blockchain networks.
+Mitigation Strategies (30%):
+
+Recommend strategies and solutions to mitigate or address these challenges effectively. Discuss technical, governance, and operational approaches.
+Task 3: Report Writing (30 minutes - 1 hour)
+3. Ask students to compile their research findings into a comprehensive report. Reports should include:
+
+Introduction (10%):
+
+Provide an introduction to the topic and the purpose of the report.
+Challenges Identification (30%):
+
+Present findings on common challenges faced by networking layers in blockchain systems.
+Examples and Case Studies (40%):
+
+Discuss real-world examples and case studies illustrating these challenges.
+Mitigation Strategies (20%):
+
+Recommend strategies and solutions to mitigate the identified challenges.
+Task 4: Peer Review (1 hour)
+4. Organize a peer review session where students exchange their reports for feedback. Encourage constructive criticism and suggestions for improvement.
+
+Task 5: Revision (30 minutes - 1 hour)
+5. Based on the feedback received during the peer review, ask students to revise and refine their reports.
+
+Submission Guidelines:
+
+Students should submit their finalized reports.
+Grading Criteria:
+Your assignment will be graded based on the following criteria:
+
+Depth and accuracy of the challenges identification and analysis.
+Clarity and organization of the report.
+Quality of the recommended mitigation strategies.

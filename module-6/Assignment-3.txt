@@ -1,0 +1,45 @@
+Security Audit Report
+
+Assignment Overview:
+In this assignment, students will be provided with the codebase of a Cosmos-based blockchain application. Their task is to conduct a thorough security audit of the codebase, identifying vulnerabilities and proposing recommended fixes. This exercise enables students to apply their knowledge of blockchain security principles and practices in a real-world context.
+
+Assignment Instructions:
+
+Task 1: Introduction to Security Audit (15 minutes)
+
+Introduce students to the importance of security audits in blockchain development and the critical role of identifying and addressing vulnerabilities.
+Task 2: Security Audit (3 - 4 hours)
+2. Provide students with the codebase of a Cosmos-based blockchain application. Ensure that the codebase contains realistic security vulnerabilities (you may include common issues such as input validation, access control, or data sanitization vulnerabilities).
+
+Audit Process (60%):
+
+Instruct students to thoroughly review the codebase to identify potential security vulnerabilities.
+Document the identified vulnerabilities, providing clear descriptions and evidence.
+Categorize vulnerabilities based on their severity (e.g., critical, high, medium, low).
+Offer detailed explanations of how each vulnerability could be exploited and the potential impact.
+Recommended Fixes (30%):
+
+Propose recommended fixes or improvements for each identified vulnerability.
+Include code snippets or pseudocode to illustrate the suggested changes.
+Explain how the fixes address the vulnerabilities and enhance security.
+Report Documentation (10%):
+
+Ensure that the security audit report is well-organized and includes clear documentation of findings and recommendations.
+Task 3: Submission (30 minutes - 1 hour)
+3. Ask students to submit their completed security audit report, including the identified vulnerabilities, recommended fixes, and report documentation.
+
+Task 4: Peer Review (1 hour)
+4. Organize a peer review session where students exchange their security audit reports for feedback. Encourage constructive criticism and suggestions for improvement.
+
+Task 5: Revision (30 minutes - 1 hour)
+5. Based on the feedback received during the peer review, ask students to revise and refine their security audit reports.
+
+Submission Guidelines:
+
+Students should submit their finalized security audit reports.
+Grading Criteria:
+Your assignment will be graded based on the following criteria:
+
+Thoroughness and accuracy of vulnerability identification.
+Quality of recommended fixes and explanations.
+Clarity and organization of the security audit report.

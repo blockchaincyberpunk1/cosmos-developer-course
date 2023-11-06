@@ -1,0 +1,47 @@
+Immutable Ledger Case Study
+
+Assignment Overview:
+In this assignment, you will investigate a real-world case where the use of an immutable ledger (such as a blockchain) could have potentially prevented fraud, tampering, or data manipulation. Understanding the practical applications of immutable ledgers is crucial in today's data-driven world, where security and integrity are paramount.
+
+Assignment Instructions:
+
+Task 1: Case Selection (15 minutes)
+
+Choose a real-world case of fraud, tampering, or data manipulation that has occurred in recent years. It could be in any industry, such as finance, healthcare, supply chain, or government.
+Task 2: Research (1-1.5 hours)
+2. Conduct in-depth research on the chosen case. Utilize reputable sources such as news articles, reports, legal documents, or academic papers to gather information about the incident.
+
+Task 3: Report (45 minutes - 1 hour)
+3. Write a report that includes the following elements:
+
+Introduction (10%):
+
+Provide an introduction to the report, including the selected case and its relevance to the assignment.
+Case Description (20%):
+
+Describe the chosen case in detail. Explain what happened, who was involved, and the consequences of the fraud, tampering, or data manipulation.
+Use of Immutable Ledger (30%):
+
+Explain how the use of an immutable ledger, such as a blockchain, could have prevented or mitigated the issues described in the case.
+Discuss the specific features and properties of an immutable ledger that would have been beneficial in this context.
+Recommendations (30%):
+
+Provide recommendations on how the industry or organization involved in the case could implement an immutable ledger to enhance security and integrity.
+Consider the practical challenges and considerations that should be addressed when implementing such a solution.
+Conclusion (10%):
+
+Summarize the key findings of your case study.
+Emphasize the importance of immutable ledgers in preventing fraud and ensuring data integrity.
+Submission Guidelines:
+
+Your report should be well-organized and between 800 to 1,000 words in length.
+Properly cite and reference any sources you use.
+Use clear headings and subheadings to structure your report.
+Follow a standard citation style (e.g., APA, MLA, or Chicago) for your references.
+Grading Criteria:
+Your assignment will be graded based on the following criteria:
+
+Depth of understanding of the chosen case.
+Clarity and organization of the report.
+Use of relevant examples and evidence to support your arguments.
+Practical and well-thought-out recommendations for using immutable ledgers.

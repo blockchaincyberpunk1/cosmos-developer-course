@@ -1,0 +1,45 @@
+Advanced Module Implementation
+
+Assignment Overview:
+In this assignment, students will apply their knowledge and skills to implement advanced modules or features in their blockchain applications. They are required to submit the code for these modules, along with comprehensive documentation and test cases to ensure the functionality and integrity of the added features.
+
+Assignment Instructions:
+
+Task 1: Introduction to Advanced Module Implementation (15 minutes)
+
+Introduce students to the significance of implementing advanced modules or features in their blockchain applications and how these additions can enhance the application's functionality.
+Task 2: Module/Feature Selection (15 minutes)
+2. Instruct students to select one or more advanced modules or features they would like to implement in their blockchain applications. They should consider the project's goals and the complexity of the chosen modules.
+
+Task 3: Module/Feature Implementation (6 - 8 hours)
+3. Challenge students to implement the selected advanced modules or features in their blockchain applications. The implementation should include the following components:
+
+Code Implementation (50%):
+
+Write the code for the advanced modules or features, ensuring it is well-structured, efficient, and follows best practices.
+Make use of appropriate programming languages, libraries, or frameworks as needed.
+Documentation (20%):
+
+Create comprehensive documentation for the implemented modules or features. The documentation should include clear explanations, usage instructions, and code comments.
+Testing (30%):
+
+Develop test cases and scripts to thoroughly test the functionality of the implemented modules or features.
+Ensure that the tests cover various scenarios and edge cases to validate the robustness of the code.
+Task 4: Submission (30 minutes - 1 hour)
+4. Request students to submit their code for the implemented advanced modules or features, along with the documentation and test cases they have created.
+
+Task 5: Peer Review (1 - 2 hours)
+5. Organize a peer review session where students exchange their code, documentation, and test cases for feedback. Encourage constructive criticism and suggestions for improvement.
+
+Task 6: Revision (1 - 2 hours)
+6. Based on the feedback received during the peer review, ask students to revise and refine their code, documentation, and test cases.
+
+Submission Guidelines:
+
+Students should submit their finalized code for the implemented advanced modules or features, along with comprehensive documentation and test cases.
+Grading Criteria:
+Your assignment will be graded based on the following criteria:
+
+Completeness and correctness of the code implementation.
+Clarity and comprehensiveness of documentation.
+Effectiveness of test cases in validating module/feature functionality.

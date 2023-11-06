@@ -1,0 +1,47 @@
+Module Feature Spotlight
+
+Assignment Overview:
+In this assignment, students will explore a Cosmos SDK module of their choice in greater depth. They will write a comprehensive report that spotlights the module's features, potential applications, and any recent updates or improvements. This exercise will help students gain a deeper understanding of specific modules within the Cosmos SDK.
+
+Assignment Instructions:
+
+Task 1: Module Selection (15 minutes)
+
+Assign each student or allow them to choose one specific Cosmos SDK module to investigate. Students should select a module based on their interests and the module's relevance to blockchain development.
+Task 2: Research and Analysis (1.5 hours)
+2. Instruct students to research their chosen module in detail. They should understand its key features, use cases, and any recent updates or improvements. Utilize official documentation, whitepapers, and reputable sources for research.
+
+Task 3: Report (45 minutes - 1 hour)
+3. Ask students to write a comprehensive report that includes the following components:
+
+Introduction (10%):
+
+Provide an introduction to the report, explaining the purpose of spotlighting the chosen Cosmos SDK module and its significance in blockchain development.
+Module Features (40%):
+
+Describe the key features and functionalities of the selected module. Explain how these features work and how they can be utilized in blockchain applications.
+Provide code examples, if applicable, to illustrate the module's capabilities.
+Potential Applications (30%):
+
+Explore potential use cases and applications of the module within blockchain development. Discuss scenarios where the module can be effectively employed.
+Highlight real-world projects or applications that have leveraged this module.
+Recent Updates (15%):
+
+Provide information on any recent updates, improvements, or changes to the module. Discuss how these updates enhance its functionality or address existing issues.
+Conclusion (5%):
+
+Summarize the key findings of the report.
+Offer insights into why understanding and utilizing the chosen module is valuable for blockchain developers.
+Submission Guidelines:
+
+Each report should be well-structured and between 800 to 1,000 words in length.
+Properly cite and reference any sources used for research.
+Use clear headings and subheadings to organize the report.
+Include code examples, if applicable, to support explanations.
+Grading Criteria:
+Your assignment will be graded based on the following criteria:
+
+Depth of understanding of the chosen Cosmos SDK module.
+Clarity and organization of the report.
+Use of relevant examples and evidence to support the analysis.
+Awareness of recent updates and improvements to the module.

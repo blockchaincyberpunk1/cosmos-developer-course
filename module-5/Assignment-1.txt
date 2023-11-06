@@ -1,0 +1,68 @@
+IBC Protocol Deep Dive
+
+Assignment Overview:
+In this assignment, students will conduct an in-depth study of the IBC (Inter-Blockchain Communication) protocol's technical specifications. They will focus on understanding its core components, messaging standards, and how it enables interoperability between blockchains. To reinforce their understanding, students will create summaries and diagrams to illustrate key concepts.
+
+Assignment Instructions:
+
+Task 1: Introduction to IBC Protocol (15 minutes)
+
+Introduce students to the IBC protocol, its significance in enabling interoperability between blockchains, and the relevance of understanding its technical specifications.
+Task 2: Protocol Study (2 - 3 hours)
+2. Instruct students to conduct a detailed study of the IBC protocol's technical specifications. They should focus on the following aspects:
+
+Core Components (40%):
+
+Explore the core components of the IBC protocol, including relayers, connection modules, and channels.
+Understand how these components work together to facilitate blockchain interoperability.
+Messaging Standards (40%):
+
+Analyze the messaging standards used in IBC for data transmission between blockchains.
+Explore the different message types and their roles in the protocol.
+Use Cases and Examples (20%):
+
+Research and provide examples of real-world use cases where the IBC protocol has been or can be applied.
+Task 3: Summaries and Diagrams (1 - 1.5 hours)
+3. Ask students to create concise summaries and visual diagrams to illustrate their understanding of the IBC protocol. These summaries and diagrams should cover the following:
+
+Core Components (30%):
+
+Summarize the functions and interactions of key core components.
+Create diagrams or flowcharts to represent the core components' relationships.
+Messaging Standards (30%):
+
+Summarize the key messaging standards and their purposes.
+Visualize message flows or sequences using diagrams or diagrams.
+Use Cases and Examples (40%):
+
+Provide brief summaries and diagrams showcasing real-world use cases and examples of IBC in action.
+Task 4: Report Compilation (30 minutes - 1 hour)
+4. Require students to compile their summaries and diagrams into a comprehensive report. The report should include:
+
+Introduction (10%):
+
+Provide an introduction to the assignment and its purpose.
+Core Components (30%):
+
+Present summaries and diagrams related to the IBC protocol's core components.
+Messaging Standards (30%):
+
+Present summaries and diagrams related to messaging standards in IBC.
+Use Cases and Examples (30%):
+
+Discuss real-world use cases and examples of IBC protocol applications.
+Task 5: Peer Review (1 hour)
+5. Organize a peer review session where students exchange their reports for feedback. Encourage constructive criticism and suggestions for improvement.
+
+Task 6: Revision (30 minutes - 1 hour)
+6. Based on the feedback received during the peer review, ask students to revise and refine their reports.
+
+Submission Guidelines:
+
+Students should submit their finalized reports, including summaries and diagrams.
+Grading Criteria:
+Your assignment will be graded based on the following criteria:
+
+Depth and accuracy of the technical understanding of the IBC protocol.
+Clarity and quality of the summaries and diagrams.
+Inclusion of real-world use cases and examples.

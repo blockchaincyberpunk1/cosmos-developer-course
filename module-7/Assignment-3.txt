@@ -1,0 +1,51 @@
+Advanced Application Proposal
+
+Assignment Overview:
+In this assignment, students will submit a detailed proposal for their advanced blockchain application project. The proposal should include a comprehensive project plan, a detailed feature list, descriptions of individual modules, and an architecture overview. This exercise helps students plan and organize their blockchain application projects effectively.
+
+Assignment Instructions:
+
+Task 1: Introduction to Advanced Application Proposal (15 minutes)
+
+Introduce students to the significance of a well-structured proposal in the development of advanced blockchain applications.
+Task 2: Proposal Creation (4 - 5 hours)
+2. Challenge students to create a detailed proposal for their advanced blockchain application project. Their proposal should include the following components:
+
+Project Plan (25%):
+
+Provide a project plan outlining key milestones, timelines, and deliverables.
+Define roles and responsibilities within the project team, if applicable.
+Feature List (20%):
+
+List and describe the features and functionalities that the application will include.
+Prioritize features based on importance and complexity.
+Module Descriptions (25%):
+
+Describe individual modules that make up the application.
+Explain the purpose, functionality, and interactions of each module.
+Consider how modules contribute to the overall application goals.
+Architecture Overview (20%):
+
+Present an architectural overview of the application, including the choice of technology stack, databases, and key components.
+Explain the rationale behind architectural decisions.
+Documentation (10%):
+
+Ensure proper documentation and references for any research or sources used in the proposal.
+Task 3: Submission (30 minutes - 1 hour)
+3. Request students to submit their detailed advanced application proposals, including all components mentioned above.
+
+Task 4: Peer Review (1 hour)
+4. Organize a peer review session where students exchange their application proposals for feedback. Encourage constructive criticism and suggestions for improvement.
+
+Task 5: Revision (30 minutes - 1 hour)
+5. Based on the feedback received during the peer review, ask students to revise and refine their advanced application proposals.
+
+Submission Guidelines:
+
+Students should submit their finalized advanced application proposals.
+Grading Criteria:
+Your assignment will be graded based on the following criteria:
+
+Completeness and clarity of the project plan, feature list, module descriptions, and architecture overview.
+Consideration of project timelines, responsibilities, and technology stack.
+Quality of documentation and references.

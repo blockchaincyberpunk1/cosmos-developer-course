@@ -1,0 +1,51 @@
+Application Showcase
+
+Assignment Overview:
+In this assignment, students will create a presentation or demo video to showcase the advanced features and cross-chain interactions of their blockchain applications. The goal is to demonstrate how their applications leverage the full capabilities of the Cosmos SDK and the broader Cosmos ecosystem.
+
+Assignment Instructions:
+
+Task 1: Introduction to Application Showcase (15 minutes)
+
+Introduce students to the significance of showcasing their advanced blockchain applications, emphasizing the importance of effectively communicating their project's capabilities.
+Task 2: Showcase Preparation (2 - 3 hours)
+2. Challenge students to prepare a presentation or demo video showcasing the advanced features and cross-chain interactions of their blockchain applications. The showcase should include the following elements:
+
+Introduction (10%):
+
+Briefly introduce the project and its objectives.
+Advanced Features (30%):
+
+Highlight the advanced modules or features implemented in the application.
+Provide a detailed explanation of how these features work and their benefits.
+Cross-Chain Interactions (30%):
+
+Demonstrate how the application interacts with other chains within the Cosmos ecosystem using the IBC protocol or other relevant technologies.
+Explain the use cases and advantages of cross-chain communication.
+Live Demo (20%):
+
+If possible, showcase a live demonstration of the application in action, emphasizing its functionality and usability.
+Q&A and Discussion (10%):
+
+Encourage questions and discussion from the audience or peers.
+Task 3: Presentation or Demo Creation (2 - 3 hours)
+3. Instruct students to create their presentation slides or record a demo video, ensuring that they cover all the elements mentioned above.
+
+Task 4: Submission (30 minutes - 1 hour)
+4. Request students to submit their presentation slides or demo videos, ensuring that all relevant content is included.
+
+Task 5: Peer Review and Feedback (1 hour)
+5. Organize a peer review session where students exchange their presentation slides or demo videos for feedback. Encourage constructive criticism and suggestions for improvement.
+
+Task 6: Revision (30 minutes - 1 hour)
+6. Based on the feedback received during the peer review, ask students to revise and refine their presentation slides or demo videos.
+
+Submission Guidelines:
+
+Students should submit their finalized presentation slides or demo videos.
+Grading Criteria:
+Your assignment will be graded based on the following criteria:
+
+Clarity and completeness of the presentation or demo, including coverage of advanced features and cross-chain interactions.
+Quality of the live demonstration (if applicable).
+Engagement with the audience or peers during the Q&A and discussion.

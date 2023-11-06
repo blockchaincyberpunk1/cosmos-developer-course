@@ -1,0 +1,55 @@
+Governance Proposal Analysis
+
+Assignment Overview:
+In this assignment, students will independently analyze a real governance proposal from the Cosmos Hub. Their task is to provide a detailed written analysis, including their rationale for supporting or opposing the proposal. This exercise helps students understand the workings of on-chain governance in the Cosmos ecosystem and how to critically evaluate governance proposals.
+
+Assignment Instructions:
+
+Task 1: Introduction to Governance Proposals (15 minutes)
+
+Introduce students to the concept of governance proposals in blockchain networks and their role in decision-making and protocol upgrades.
+Task 2: Selection of Governance Proposal (15 minutes)
+2. Instruct students to choose one real governance proposal from the Cosmos Hub's recent proposals. Provide them with instructions on how to access the official governance proposal repository or platform.
+
+Task 3: Proposal Analysis (3 - 4 hours)
+3. Challenge students to analyze the selected governance proposal thoroughly. Their analysis should include the following components:
+
+Proposal Overview (10%):
+
+Provide an overview of the proposal, including its title, proposer, and a brief description of its purpose.
+Rationale and Goals (20%):
+
+Examine the proposer's rationale for the proposal and its intended goals.
+Evaluate whether the proposal addresses a significant issue or improvement for the Cosmos ecosystem.
+Technical Details (30%):
+
+Analyze the technical details and specifications of the proposal.
+Assess the potential impact on the Cosmos network's security, performance, and functionality.
+Consider the proposal's alignment with the Cosmos Network's design principles and goals.
+Community Feedback (20%):
+
+Research and summarize the feedback and discussions related to the proposal within the Cosmos community.
+Highlight any arguments or concerns raised by community members.
+Personal Analysis and Rationale (20%):
+
+Provide your own analysis and rationale for supporting or opposing the proposal.
+Justify your position by considering the proposal's technical merits, potential benefits, and drawbacks.
+Consider the broader implications of the proposal on the Cosmos ecosystem.
+Task 4: Submission (30 minutes - 1 hour)
+4. Request students to submit their detailed governance proposal analysis, including all components mentioned above.
+
+Task 5: Peer Review (1 hour)
+5. Organize a peer review session where students exchange their governance proposal analyses for feedback. Encourage constructive criticism and suggestions for improvement.
+
+Task 6: Revision (30 minutes - 1 hour)
+6. Based on the feedback received during the peer review, ask students to revise and refine their governance proposal analyses.
+
+Submission Guidelines:
+
+Students should submit their finalized governance proposal analyses.
+Grading Criteria:
+Your assignment will be graded based on the following criteria:
+
+Thoroughness of the proposal analysis, including technical details and community feedback.
+Clarity and organization of the analysis.
+Quality of the personal analysis and rationale for supporting or opposing the proposal.

@@ -1,0 +1,61 @@
+Networking Models Research
+
+Assignment Overview:
+In this assignment, students will research and compare various networking models used in blockchain systems, including the Gossip protocol, Kafka-based messaging, and Tendermint's approach. They will delve into technical details, strengths, and weaknesses of each networking model to gain a deeper understanding of their role in blockchain technology.
+
+Assignment Instructions:
+
+Task 1: Introduction to Networking Models (15 minutes)
+
+Introduce students to the concept of networking models in blockchain systems and their significance in maintaining a distributed and secure network.
+Task 2: Model Selection (15 minutes)
+2. Instruct students to select and focus on one of the following networking models: Gossip protocol, Kafka-based messaging, or Tendermint's approach. They should choose the model they find most interesting or relevant.
+
+Task 3: Technical Details Analysis (1.5 - 2.5 hours)
+3. Ask students to conduct a technical analysis of the selected networking model. They should explore and compare the following aspects:
+
+Technical Principles (40%):
+
+Describe the technical principles and mechanisms that underpin the selected networking model.
+Explain how the model facilitates communication and data propagation within a blockchain network.
+Strengths (30%):
+
+Identify and discuss the strengths and advantages of the selected networking model.
+Provide examples or case studies where the model has performed well.
+Weaknesses (30%):
+
+Identify and analyze the weaknesses or limitations of the selected networking model.
+Highlight potential challenges or drawbacks that may arise in certain scenarios.
+Task 4: Comparison (30 minutes - 1 hour)
+4. After researching the selected networking model in depth, ask students to compare it with other networking models used in blockchain systems (e.g., comparing Gossip protocol with Kafka-based messaging or Tendermint's approach). They should consider technical aspects, strengths, and weaknesses in their comparisons.
+
+Task 5: Report Writing (30 minutes - 1 hour)
+5. Require students to compile their research findings and comparisons into a comprehensive report. Reports should include:
+
+Introduction (10%):
+
+Provide an introduction to the topic and the purpose of the research.
+Technical Details Analysis (40%):
+
+Present findings from the technical analysis of the selected networking model.
+Comparison (30%):
+
+Compare the selected networking model with other blockchain networking models.
+Conclusion (20%):
+
+Summarize the key points of the research and offer conclusions on the strengths and weaknesses of the selected networking model.
+Task 6: Peer Review (1 hour)
+6. Organize a peer review session where students exchange their research reports for feedback. Encourage constructive criticism and suggestions for improvement.
+
+Task 7: Revision (30 minutes - 1 hour)
+7. Based on the feedback received during the peer review, ask students to revise and refine their research reports.
+
+Submission Guidelines:
+
+Students should submit their finalized research reports.
+Grading Criteria:
+Your assignment will be graded based on the following criteria:
+
+Depth and accuracy of the technical analysis.
+Clarity and organization of the research report.
+Thoughtfulness in presenting technical details, strengths, and weaknesses.

@@ -1,0 +1,49 @@
+Vulnerability Mitigation
+
+Assignment Overview:
+In this assignment, students will be presented with a set of security vulnerabilities identified within a Cosmos-based blockchain application's codebase. Their task is to propose detailed mitigation strategies for each vulnerability. This exercise allows students to apply their knowledge of blockchain security best practices and develop practical skills in identifying and addressing vulnerabilities.
+
+Assignment Instructions:
+
+Task 1: Introduction to Vulnerability Mitigation (15 minutes)
+
+Introduce students to the importance of identifying and mitigating security vulnerabilities in blockchain applications and the potential consequences of security breaches.
+Task 2: Vulnerability Identification (15 minutes)
+2. Provide students with a list of security vulnerabilities identified within a Cosmos-based blockchain application's codebase. These vulnerabilities should be based on real-world scenarios or common blockchain security issues.
+
+Task 3: Vulnerability Mitigation (3 - 4 hours)
+3. Challenge students to propose detailed mitigation strategies for each of the identified vulnerabilities. The mitigation strategies should include the following elements for each vulnerability:
+
+Vulnerability Description (10%):
+
+Describe the vulnerability, including its nature and potential impact on the application.
+Mitigation Strategy (60%):
+
+Outline a step-by-step mitigation plan to address the vulnerability.
+Explain the technical changes or improvements required to mitigate the vulnerability.
+Provide code snippets or pseudocode if applicable to illustrate the mitigation process.
+Preventive Measures (20%):
+
+Suggest preventive measures or best practices that can help avoid similar vulnerabilities in the future.
+Provide guidance on how to incorporate security into the development process.
+Documentation (10%):
+
+Ensure that the mitigation strategies are well-documented and clearly explained.
+Task 4: Submission (30 minutes - 1 hour)
+4. Ask students to submit their completed vulnerability mitigation proposals, including descriptions, mitigation strategies, preventive measures, and documentation.
+
+Task 5: Peer Review (1 hour)
+5. Organize a peer review session where students exchange their mitigation proposals for feedback. Encourage constructive criticism and suggestions for improvement.
+
+Task 6: Revision (30 minutes - 1 hour)
+6. Based on the feedback received during the peer review, ask students to revise and refine their mitigation proposals.
+
+Submission Guidelines:
+
+Students should submit their finalized vulnerability mitigation proposals.
+Grading Criteria:
+Your assignment will be graded based on the following criteria:
+
+Clarity and completeness of vulnerability descriptions.
+Effectiveness and thoroughness of mitigation strategies.
+Thoughtfulness of preventive measures and documentation.

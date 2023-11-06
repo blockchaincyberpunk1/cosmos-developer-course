@@ -1,0 +1,55 @@
+Networking Layer Evaluation
+
+Assignment Overview:
+In this assignment, students will evaluate the performance and security aspects of Tendermint's networking layer based on real-world data and incidents. They will analyze and present their findings in a report format, providing insights into the strengths and weaknesses of the networking layer in a practical context.
+
+Assignment Instructions:
+
+Task 1: Introduction to Networking Layer Evaluation (15 minutes)
+
+Introduce students to the importance of evaluating the performance and security aspects of networking layers in blockchain systems. Explain how real-world data and incidents provide valuable insights.
+Task 2: Data Collection and Analysis (2 - 3 hours)
+2. Instruct students to collect and analyze real-world data and incidents related to Tendermint's networking layer. They should focus on the following aspects:
+
+Performance Assessment (40%):
+
+Evaluate the network's performance based on metrics like transaction throughput, latency, and scalability.
+Analyze how the networking layer has performed under varying network loads or during specific events (e.g., network upgrades).
+Security Assessment (40%):
+
+Investigate security incidents or vulnerabilities that may have occurred in the past related to Tendermint's networking layer.
+Assess the effectiveness of security measures and their impact on network security.
+Findings and Recommendations (20%):
+
+Summarize key findings from the performance and security assessments.
+Provide recommendations for enhancing performance or security based on the evaluation results.
+Task 3: Report Writing (30 minutes - 1 hour)
+3. Ask students to compile their evaluation findings into a comprehensive report. Reports should include:
+
+Introduction (10%):
+
+Provide an introduction to the topic and the purpose of the report.
+Performance Assessment (40%):
+
+Present findings from the performance assessment of Tendermint's networking layer.
+Security Assessment (40%):
+
+Discuss security incidents, vulnerabilities, and security measures related to the networking layer.
+Findings and Recommendations (10%):
+
+Summarize key findings and provide recommendations for improvement.
+Task 4: Peer Review (1 hour)
+4. Organize a peer review session where students exchange their evaluation reports for feedback. Encourage constructive criticism and suggestions for improvement.
+
+Task 5: Revision (30 minutes - 1 hour)
+5. Based on the feedback received during the peer review, ask students to revise and refine their evaluation reports.
+
+Submission Guidelines:
+
+Students should submit their finalized evaluation reports.
+Grading Criteria:
+Your assignment will be graded based on the following criteria:
+
+Depth and accuracy of the performance and security assessments.
+Clarity and organization of the report.
+Quality of the recommendations provided.

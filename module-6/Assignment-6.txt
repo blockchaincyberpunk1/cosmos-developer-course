@@ -1,0 +1,60 @@
+Test Automation Implementation
+
+Assignment Overview:
+In this assignment, students will be challenged to implement automated tests for a provided Cosmos-based blockchain application. Their task is to write test scripts and execute them using a chosen testing framework. This exercise enables students to gain hands-on experience with test automation and ensure the reliability of blockchain applications.
+
+Assignment Instructions:
+
+Task 1: Introduction to Test Automation Implementation (15 minutes)
+
+Introduce students to the importance of test automation in ensuring the quality and reliability of blockchain applications.
+Task 2: Test Automation Setup (30 minutes - 1 hour)
+2. Provide students with a Cosmos-based blockchain application for which they will create automated tests.
+
+Instruct students to set up the necessary development environment, including the chosen testing framework and any required dependencies.
+Task 3: Test Script Development (2 - 3 hours)
+4. Challenge students to write automated test scripts for various functionalities or components of the provided blockchain application. The test scripts should include the following components:
+
+Test Scenario Description (15%):
+
+Provide a brief description of the test scenario being addressed by the test script.
+Test Steps (50%):
+
+Write the sequence of test steps to be executed in the test script.
+Include actions, inputs, and expected outcomes for each step.
+Emphasize thorough test coverage.
+Assertions and Validations (25%):
+
+Define assertions or validations to confirm the correctness of the application's behavior during testing.
+Ensure that the test scripts verify expected results.
+Cleanup (10%):
+
+Include any cleanup steps necessary to reset the environment after testing.
+Task 4: Test Execution (1 - 2 hours)
+5. Instruct students to execute the automated test scripts against the provided blockchain application.
+
+Encourage students to analyze the test results and report any issues or failures.
+Task 5: Documentation and Reporting (30 minutes - 1 hour)
+7. Require students to document their test automation process, including:
+
+Details of the test scripts created.
+Execution results, including any failures or issues encountered.
+Steps taken to resolve issues or failures.
+Task 6: Submission (30 minutes - 1 hour)
+8. Ask students to submit their completed test automation scripts, test execution results, and documentation.
+
+Task 7: Peer Review (1 hour)
+9. Organize a peer review session where students exchange their test automation scripts, execution results, and documentation for feedback. Encourage constructive criticism and suggestions for improvement.
+
+Task 8: Revision (30 minutes - 1 hour)
+10. Based on the feedback received during the peer review, ask students to revise and refine their test automation scripts and documentation.
+
+Submission Guidelines:
+
+Students should submit their finalized test automation scripts, test execution results, and documentation.
+Grading Criteria:
+Your assignment will be graded based on the following criteria:
+
+Completeness and accuracy of the test automation scripts.
+Clarity and organization of documentation.
+Effectiveness of test execution and issue reporting.

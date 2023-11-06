@@ -1,0 +1,35 @@
+Querying Practice
+
+Assignment Overview:
+In this assignment, students will engage in advanced querying exercises to enhance their skills in crafting complex queries and optimizing them for performance on a database system. The exercises will challenge students to work with real-world data scenarios and apply their knowledge of query optimization techniques.
+
+Assignment Instructions:
+
+Task 1: Exercise Selection (15 minutes)
+
+Provide students with a set of advanced querying exercises to choose from. These exercises should involve complex database queries and real-world data scenarios. You can create your own exercises or select them from textbooks, online resources, or open-source datasets.
+Task 2: Query Implementation (1.5 - 2.5 hours)
+2. Instruct students to select one or more exercises based on their complexity and preferences. They should write SQL queries to solve the chosen exercises.
+
+Specific tasks for query implementation may include:
+
+Crafting SQL queries to retrieve specific data from a database.
+Using JOIN operations to combine data from multiple tables.
+Aggregating and summarizing data using GROUP BY and HAVING clauses.
+Implementing subqueries and correlated subqueries.
+Optimizing queries for performance.
+Task 3: Query Optimization (30 minutes - 1 hour)
+3. Ask students to review and optimize their SQL queries. They should consider strategies for improving query performance, such as indexing, query restructuring, and avoiding common pitfalls.
+
+Task 4: Documentation (30 minutes - 1 hour)
+4. Require students to create documentation for their queries, including explanations of the problem statement, the SQL queries they wrote, and the optimization techniques applied.
+
+Submission Guidelines:
+
+Students should submit their SQL queries, along with documentation explaining their thought process and optimization strategies.
+Grading Criteria:
+Your assignment will be graded based on the following criteria:
+
+Correctness of SQL queries and solutions.
+Efficiency of query optimization techniques.
+Clarity and completeness of documentation.
